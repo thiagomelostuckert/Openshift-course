@@ -7,6 +7,6 @@ V3 - https://www.okd.io/minishift/
 V4 - https://developers.redhat.com/products/codeready-containers/overview
 
 OCP 4.5 DO180:
-Capítulos 1 e 2; 
+Introdução e Capítulos 1 e 2; 
 
 
