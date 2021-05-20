@@ -21,3 +21,7 @@ Red Hat Container Catalog [https://registry.redhat.io]
 
 Fork do repositório: 
 https://github.com/thiagomelostuckert/DO180-apps
+
+Capítulo 2: 
+sudo podman run ubi7/ubi:7.7 echo 'Hello!'
+https://catalog.redhat.com/software/containers/ubi7/ubi/5c3592dcd70cc534b3a37814?gti-tabs=unauthenticated
