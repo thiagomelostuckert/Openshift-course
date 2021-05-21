@@ -11,8 +11,12 @@ Aula 20/05/2021:
 OCP 4.5 DO180:
 Capítulos 3; 
 
+oom = out of memory 
 
+SELinux:
+https://www.redhat.com/pt-br/topics/linux/what-is-selinux
 
+Não utilizar a tag "latest" em produção para evitar uma atualização automática no caso de lançamento de uma versão nova. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
