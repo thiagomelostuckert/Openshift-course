@@ -8,9 +8,12 @@
 
 Aula 21/05/2021: 
 OCP 4.5 DO180:
-Capítulos 5; 
+Capítulos 5 e 6; 
 
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/deduplicating_and_compressing_storage/deploying-vdo_deduplicating-and-compressing-storage
+
+Tentar economizar as linhas do DockerFile pq quanto menor melhor! 
+Cada linha representa uma camada, quanto mais linhas, mais camadas e maior a imagem. 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
