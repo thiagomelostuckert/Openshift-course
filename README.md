@@ -6,10 +6,18 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Aula 21/05/2021: 
+OCP 4.5 DO180:
+Capítulos 5; 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/deduplicating_and_compressing_storage/deploying-vdo_deduplicating-and-compressing-storage
+
+---------------------------------------------------------------------------------------------------------------------------
+
 Aula 20/05/2021: 
 
 OCP 4.5 DO180:
-Capítulos 3; 
+Capítulos 3 e 4; 
 
 oom = out of memory 
 
